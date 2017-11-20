@@ -5,7 +5,7 @@ import 'rxjs/add/operator/map';
 @Injectable()
 export class DataProvider {
  
-    items: any;
+    items: any; 
  
     constructor(public http: Http) {
  
@@ -21,7 +21,6 @@ export class DataProvider {
     }
  
     filterItems(searchTerm){
- 
         return this.items.filter((item) => {
             return item.title.toLowerCase().indexOf(searchTerm.toLowerCase()) > -1 ;
         });    
