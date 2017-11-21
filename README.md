@@ -7,9 +7,7 @@ Este proyecto usa:
 1. Ionic 3
 1. Ionic Native 3
 
-En este proyecto  vamos a ver cómo filtrar los datos de la lista en Ionic 2y 3, con un enfoque en el rendimiento y la usabilidad. 
-
-*Aquí le damos un vistaz o rápido a lo que construiremos:*
+*Cómo filtrar los datos de la lista en Ionic 2y 3, con un enfoque en el rendimiento y la usabilidad:*
 
 ![ionic2-filtro-busqueda](https://cdn-images-1.medium.com/max/640/1*YdOVAs24kTPes5DPhxcy-g.gif)
 
