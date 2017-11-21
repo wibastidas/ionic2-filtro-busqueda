@@ -11,7 +11,7 @@ Este proyecto usa:
 
 ![ionic2-filtro-busqueda](https://cdn-images-1.medium.com/max/640/1*YdOVAs24kTPes5DPhxcy-g.gif)
 
-Recuerda que luego de descargar o clonar el proyecto debes pararte en tu proyecto en la terminal y ejecutar:##
+Recuerda que luego de descargar o clonar el proyecto debes pararte en tu proyecto en la terminal y ejecutar:
 
 ```
 npm install
@@ -22,4 +22,4 @@ Y luego:
 ionic cordova prepare
 ```
 
-para descargar todas las dependencias del proyecto.##
+para descargar todas las dependencias del proyecto.
