@@ -16,7 +16,7 @@ Recuerda que luego de descargar o clonar el proyecto debes pararte en tu proyect
 ```
 npm install
 ````
-##Y luego:##
+Y luego:
 
 ```
 ionic cordova prepare
